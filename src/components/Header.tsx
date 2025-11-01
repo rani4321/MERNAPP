@@ -16,7 +16,7 @@ export const Header = () => {
       <div className="container flex h-16 items-center justify-between">
         <Link to="/" className="flex items-center space-x-2">
           <div className="h-8 w-8 rounded-lg bg-primary" />
-          <span className="text-xl font-bold">MiniShop</span>
+          <span className="text-xl font-bold">Shoppie</span>
         </Link>
 
         <nav className="flex items-center gap-4">
